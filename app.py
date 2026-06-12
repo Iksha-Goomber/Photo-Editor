@@ -2,8 +2,6 @@ import streamlit as st
 from PIL import Image
 import io
 from rembg import remove
-import cv2
-import tempfile
 
 
 # ---------------- PAGE CONFIG ---------------- #
